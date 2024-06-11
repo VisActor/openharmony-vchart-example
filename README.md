@@ -4,7 +4,8 @@
 - Gitee仓库地址：https://gitee.com/VisActor/harmony-vchart-example/
 
 OpenHarmony是由开放原子开源基金会（OpenAtom Foundation）孵化及运营的开源项目，目标是面向全场景、全连接、全智能时代，基于开源的方式，搭建一个智能终端设备操作系统的框架和平台，促进万物互联产业的繁荣发展。
-VChart 从 1.11.1 版本开始，支持兼容 OpenHarmony 应用开发的图表开发，为了方便 OpenHarmony 技术栈的同学更好的使用，我们提供了 VChart 的 OpenHarmony 封装包`@visactor/harmony-vchart`（此包不是 NPM 包，是 OHPM 包），该组件的 spec 配置项与 VChart 一致
+
+VChart 从 1.11.1 版本开始，支持兼容 OpenHarmony 应用开发的图表开发（支持API 10 Release以上），为了方便 OpenHarmony 技术栈的同学更好的使用，我们提供了 VChart 的 OpenHarmony 封装包`@visactor/harmony-vchart`（此包不是 NPM 包，是 OHPM 包），该组件的 spec 配置项与 VChart 一致
 
 我们将在本教程中详细讲解如在 OpenHarmony 项目中使用 VChart，并创建一个简单的柱状图。
 
