@@ -1,0 +1,16 @@
+{
+  "name": "openharmony_vchart_example",
+  "version": "1.0.0",
+  "description": "VChart支持OpenHarmony的版本demo集合",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@visactor/harmony-vchart": "^1.11.2"
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.13",
+    "@ohos/hamock": "1.0.0"
+  },
+  "dynamicDependencies": {}
+}
